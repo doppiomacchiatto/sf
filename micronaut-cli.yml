@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: bulk.api.io.santisi
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, gradle, http-client, java, junit, logback, lombok, micronaut-aop, micronaut-build, picocli, picocli-java-application, picocli-junit, readme, rxjava2, rxjava2-http-client, serialization-jackson, shade, yaml, yaml-build]
